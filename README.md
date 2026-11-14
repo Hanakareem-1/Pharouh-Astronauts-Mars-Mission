@@ -3,7 +3,7 @@
 ## 📂 Presentation & Deliverables
 
 Click the link below to open our final presentation Slide Deck (PDF):
-* **👉 [View Team Presentation (Presentation.pdf)](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/USERNAME/REPO/main/docs/Mars_Mission_Presentation.pptx)**
+* **👉 [View Team Presentation ](docs/Mars_Mission_Presentation.pdf)**
 
 ---
 
