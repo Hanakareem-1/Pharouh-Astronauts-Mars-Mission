@@ -1,37 +1,24 @@
-# 🚀 Pharouh Astronauts - Mars Mission Game
+[README.md](https://github.com/user-attachments/files/34861921/README.md)
 
-## 📂 Presentation & Deliverables
+# 🚀 Mars Mission
 
-Click the link below to open our final presentation Slide Deck (PDF):
-* **👉 [View Team Presentation ](docs/Mars_Mission_Presentation.pdf)**
+An interactive browser-based survival simulator grounding real NASA space biology & radiation datasets into decision-driven gameplay.
 
----
+**NASA Space Apps Challenge 2025**
 
-## 🏛️ Project Inspiration
+## 🎮 Play
+[▶️ Play the game](https://mars-mission-game.github.io/)
 
-Our game, **Pharaoh Astronauts**, is an interactive experience that blends the rich history of ancient Egypt with futuristic space exploration. We take players on a journey to Mars, drawing parallels between the engineering marvels of the pyramids and the massive challenges of terraforming and colonizing the Red Planet. Using official NASA data, players manage resources, navigate robotic rovers, and ensure the survival of their Mars habitat.
+## 📽️ Presentation
+[▶️ Open the Presentation](presentation.html)
 
----
+[📄 Download as PDF](Mars_Mission_Presentation.pdf)
 
-## 🤝 The Team
+## 👥 Team
+- Abdallah Ayman Mostafa (Leader)
+- Belal Ahmed Abdel-Azim (Lead Coder)
+- Lujain Ayman Barakat (Assistant Coder)
+- Mostafa Mohamed Ibrahim (Researcher)
+- Hana Kareem Rehab  Mariam Abdelfattah Hegazy (Designer)
 
-We are a diverse team of six passionate individuals from Egypt, dedicated to pushing the boundaries of creativity and technology.
-
-| Role | Team Member |
-| :--- | :--- |
-| **🏆 Team Lead** | Abdallah Ayman |
-| **💻 Coder** | Belal Ahmed |
-| **🔧 Assistant Coder** | Lugain Ayman |
-| **🎨 Designer** |  Hana Kareem /Mariam Abdelfattah
-| **🔬 Researcher** |Mostafa Mohamed|
-
-
----
-
-## 🛰️ Tech Stack
-
-* **Development:** [Add tools, e.g., Unity, JavaScript, Python]
-* **Design:** [Add tools, e.g., Figma, Blender, Adobe Illustrator]
-* **Version Control:** [Add tools, e.g., Git, GitHub]
-
-***Thank you for visiting our project! For inquiries, please contact the Team Lead.***
+*We are all under 15 years old.*
