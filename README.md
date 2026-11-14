@@ -20,7 +20,7 @@ Our game, **Pharaoh Astronauts**, is an interactive experience that blends the r
 
 ## 🤝 The Team
 
-We are a diverse team of six passionate individuals from Gharbia, Egypt, dedicated to pushing the boundaries of creativity and technology.
+We are a diverse team of six passionate individuals from Egypt, dedicated to pushing the boundaries of creativity and technology.
 
 | Role | Team Member |
 | :--- | :--- |
