@@ -1,9 +1,4 @@
 # 🚀 Pharouh Astronauts - Mars Mission Game
-> **NASA Space Apps Challenge 2024 - Ad Daljamun, Egypt**
-
-<p align="center">
-  <img src="image_9.png" alt="Pharaoh Astronauts Team Logo" width="300" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</p>
 
 ## 📂 Presentation & Deliverables
 
