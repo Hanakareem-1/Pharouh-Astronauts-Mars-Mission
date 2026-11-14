@@ -10,9 +10,7 @@ An interactive browser-based survival simulator grounding real NASA space biolog
 [▶️ Play the game](https://mars-mission-game.github.io/)
 
 ## 📽️ Presentation
-[▶️ Open the Presentation](presentation.html)
-
-[📄 Download as PDF](Mars_Mission_Presentation.pdf)
+[▶️ Open the Presentation](Mars_Mission_Presentation.pdf)
 
 ## 👥 Team
 - Abdallah Ayman Mostafa (Leader)
