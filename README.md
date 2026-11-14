@@ -3,7 +3,7 @@
 ## 📂 Presentation & Deliverables
 
 Click the link below to open our final presentation Slide Deck (PDF):
-* **👉 [View Team Presentation (Presentation.pdf)]/Users/shimaahamdy/Downloads/Mars Mission - NASA Space Apps Challenge Presentation (4) (1) (3).pptx**
+* **👉 [View Team Presentation (Presentation.pdf)][(https://github.com/<username>/<repo>/blob/main/docs/Mars_Mission_Presentation.pdf)**
 
 ---
 
